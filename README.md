@@ -36,6 +36,8 @@ _Bayonotlar_ va _ifodalar_ _tarjimonga_ aniq vazifalarni bajarish uchun ko'rsatm
 > ***
 > ***
 
+#### 2.6.1 STATEMENTS AND EXPRESSIONS
+
 ### 2.7 SEQUENCE: INPUT AND OUTPUT STATEMENTS
 
 ### 2.8 SELECTION STRUCTURE
